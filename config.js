@@ -7,7 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['19514693360', '𝚲zrael💋', true],
+  ['639302993868', 'Luv💋', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
@@ -17,8 +17,8 @@ global.owner = [
 
 //────────────────────────────
 
-global.mods = ['19514693360'] 
-global.prems = ['19514693360', 'xxxxxxxxxx']
+global.mods = ['639302993868'] 
+global.prems = ['639302993868', 'xxxxxxxxxx']
 
 //────────────────────────────
 
@@ -59,20 +59,20 @@ global.imagen4 = fs.readFileSync('./bixbyvision16.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = 'AZRAEL'
-global.author = 'AZRAEL'
+global.packname = 'Luv'
+global.author = 'LuvLoner'
 
 //────────────────────────────
 
 global.vs = '𝟐.𝟐'
 
-global.nomebot = 'AZRAELBOT'
+global.nomebot = 'LuvLonerBot'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = 'AZRAELbot'
+global.wm = 'luvlonerbot'
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
