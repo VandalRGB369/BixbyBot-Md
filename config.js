@@ -7,7 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['639530342648', 'Luv💋', true],
+  ['6282225208418', 'Luv💋', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
@@ -17,8 +17,8 @@ global.owner = [
 
 //────────────────────────────
 
-global.mods = ['639530342648'] 
-global.prems = ['639530342648', 'xxxxxxxxxx']
+global.mods = ['6282225208418'] 
+global.prems = ['6282225208418', 'xxxxxxxxxx']
 
 //────────────────────────────
 
